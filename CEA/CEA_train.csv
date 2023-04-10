@@ -1,0 +1,6 @@
+,0,1,2,3,4,target
+0,big,circular,light,smooth,thick,malignant
+1,big,circular,light,rough,thick,malignant
+2,big,elliptical,dark,smooth,thin,benign
+3,big,elliptical,light,rough,thick,malignant
+4,small,circular,light,smooth,thick,benign
